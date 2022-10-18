@@ -7,7 +7,7 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     my_cart = ['Суп', 'Компот']
-    print(my_cart[2])  # Press Ctrl+F8 to toggle the breakpoint.
+    print(my_cart[1])  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
